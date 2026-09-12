@@ -24,6 +24,7 @@ HTML • CSS • React • Tailwind CSS
 
 ### Backend & Database
 Node.js • Express.js • MongoDB • MySQL
+Spring Boot
 
 ### Tools
 Git • GitHub • VS Code
