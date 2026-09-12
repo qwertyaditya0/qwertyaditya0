@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Pratap Singh 👋
+# Hi, I'm Aditya Pratap Singh 
 
 ### Java Developer | React Developer | Problem Solver
 
